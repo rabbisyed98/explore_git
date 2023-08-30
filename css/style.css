@@ -18,4 +18,9 @@
 ul {
     border: 5px solid orangered;
     list-style: none;
+    padding: 50px;
+    line-height: 2;
+    }
+li{
+    text-align: left;
 }
